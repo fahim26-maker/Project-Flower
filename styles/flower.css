@@ -6,6 +6,8 @@
   font-style: normal;
 }
 
+    
+
 body {
     width: 80%;
     margin: 0 auto;
@@ -67,7 +69,7 @@ body {
     justify-content: center;
     justify-items: center;
 }
-/* section 3 */
+/* card section 3 */
 .lily{
     font-weight: 500px;
     font-size: 22px;
@@ -98,4 +100,134 @@ body {
     text-align: center;
   padding: 1rem;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+/* trusted saection */
+
+.tru-img{
+    width: 286px;
+    height: 286px;
+}
+.my-badge{
+    display: flex;
+     position: relative;
+     margin: 230px 0 130px 0;
+}
+
+.plant-badge{
+    position: absolute;
+    top: -25%;
+    right: 45%;
+    width: 286px;
+}
+.h-3{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+}
+.in-list{
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.right-side{
+    padding: 30px;
+}
+/* latest section */
+.h-4{
+    font-size: 50px;
+    font-weight: bold;
+}
+.latest{
+    text-align: center;
+}
+.banner-img{
+ 
+}
+.bloom-color{
+    color: ;
+    border-radius: 14px;
+    margin-right: 60%;
+    filter: brightness(60%);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.text-60{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+
+}
+.banner-img{
+    position: relative;
+    padding: 10px;
+}
+.banner-text{
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    text-align: center;
+    padding: 10px;
+ 
+}
+.text-25{
+    font-size: 40px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.banner-text-2{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    text-align: center;
+    padding: 10px;
+}
+.banner-img-2{
+    position: relative;
+    padding: 10px;
+    right:;
+    right: -34%;
+    margin-top: -39%
+}
+.pera-3{
+    margin: 135px 0 105px 0;
+} 
+/* last part */
+.last-img{
+    width: 100%;
+    height: 100%;
+}
+.email{
+    width: 730px;
+    height: 50px;
+    border: none;
+}
+.last-h{
+    font-weight: bold;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+/* last part */
+.last-part{
+    position: relative;
+}
+.last-text-part{
+    position: absolute;
+    right: 5%;
+    top: 10%;
+    text-align: center;
+}
+.ind-p{
+    font-size: 22px;
+    font-weight: 400px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.end-div{
+    padding: 70px 0 30px 0;
+    margin: 
+}
+.logo-div{
+    justify-content: space-between;
+    display: grid;
+}
+.footer{
+    display: flex;
+    margin: 50px 0 50px 0;
 }
